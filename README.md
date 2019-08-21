@@ -6,8 +6,7 @@ To Compile and Run:
 
 Pre-Step: npm install
 1. npm start (An app will start at http://localhost:4200)
-2. You will need to clone my backend and initiate Spring boot. 
-
+2. You will need to clone my backend and initiate Spring boot. (https://github.com/cl2534/eventTracker-backend)
 
 Overview
 
